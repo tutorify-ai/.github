@@ -6,7 +6,7 @@ We are dedicated to advancing education through innovative, AI-powered solutions
 
 ## What We Build
 
-Our private repositories collectively contribute to the following core features and solutions:
+Our projects collectively contribute to the following core features and solutions:
 
 ### Intelligent Learning Platforms
 - **Personalized Learning Experiences:** Custom-tailored content and recommendations based on individual student needs.
